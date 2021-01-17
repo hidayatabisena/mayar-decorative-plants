@@ -1,7 +1,7 @@
 # Decorative Plant Online Websites
 Example product card with Mayar as a payment interface
 
-![Product Card](https://res.cloudinary.com/moyadev/image/upload/v1610890402/Moyadev/decorative-plant-ipad.jpg)
+![Product Card](https://user-images.githubusercontent.com/3937792/104844596-b5837f80-5903-11eb-8308-85f7b2debf55.jpg)
 
 This is the [Demo Site](https://seo-dalmi.netlify.app/)
 
