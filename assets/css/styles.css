@@ -90,9 +90,11 @@ img {
 .card__description {
   font-size: var(--small-font-size);
   text-align: initial;
-  margin-bottom: 1.25rem;
+  margin-bottom: 2.50rem;
   opacity: 0;
 }
+
+/*===== UNCOMMENT THE CARD__BUTTON ELEMENT ON HTML TO USE THIS STYLE =====*/
 
 .card__button {
   display: block;
