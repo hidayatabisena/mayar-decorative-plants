@@ -63,7 +63,9 @@ img {
 
 .card__img {
   position: absolute;
-  width: 260px;
+  top: 90px;
+  width: 290px;
+  height: 430px;
   filter: drop-shadow(5px 10px 15px rgba(8,9,13,.4));
 }
 
